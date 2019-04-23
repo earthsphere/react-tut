@@ -1,0 +1,4 @@
+ReactDOM.render(
+    <Hello message="my friend" />, 
+    document.getElementById("root")
+);
